@@ -1,0 +1,50 @@
+{
+  "weight_sum": 0.504343388,
+  "criteria_eigenvector": [
+    0.649118004631325,
+    0.27895456548641845,
+    0.07192742988225649
+  ],
+  "criteria_CR_RI_0_58": 0.05593756885587827,
+  "ranking": [
+    "A3",
+    "A4",
+    "A1",
+    "A2"
+  ],
+  "ann_rows_transcribed": 100,
+  "caution": "Table 8 scores reproduce published SI to rounding precision. Raw-to-Q mapping is unresolved.",
+  "published_ANN_rows_metrics": {
+    "RMSE": 0.01589774512312988,
+    "MAE": 0.010666999999999992,
+    "NSE": 0.981603014289852,
+    "PBIAS": 0.1906058812701528,
+    "RSR": 0.13563548838761927,
+    "covariance": 0.013310221406060604
+  },
+  "new_synthetic_surrogate": {
+    "split": [
+      2800,
+      600,
+      600
+    ],
+    "selected_alpha": 0.001,
+    "ANN_test": {
+      "RMSE": 0.003862876420076444,
+      "MAE": 0.0028338984262208564,
+      "NSE": 0.998876461588559,
+      "PBIAS": -0.004088621257434729,
+      "RSR": 0.0335192245053643,
+      "covariance": 0.013354521198159984
+    },
+    "linear_baseline_test": {
+      "RMSE": 1.93663521957536e-16,
+      "MAE": 1.6001089342410068e-16,
+      "NSE": 1.0,
+      "PBIAS": -2.999098024961154e-14,
+      "RSR": 1.6804708111438198e-15,
+      "covariance": 0.013303261636323439
+    },
+    "note": "New synthetic experiment, not original MATLAB model or independent field validation."
+  }
+}

@@ -1,0 +1,21 @@
+YOUR PROJECT IS READY
+
+1. Extract this ZIP.
+2. Open index.html to try the interactive tool immediately.
+3. Open README.md for complete instructions.
+
+UPLOAD:
+Go to https://github.com/new and create wte-site-suitability.
+Use Add file > Upload files. Upload this folder's CONTENTS, not the ZIP.
+Commit changes.
+For a live website: Settings > Pages > Deploy from a branch > main > /(root) > Save.
+GitHub displays the actual link after publication.
+
+Verification performed during preparation:
+- Seven Python unit tests passed.
+- Full analysis and new synthetic ANN training executed successfully.
+- Four published SI values reproduced to rounding precision.
+- Original report, presentation, 100 available ANN table rows, and generated results included.
+
+No live GitHub repository has been created by this package.
+Original MATLAB trained weights are not available; the included new ANN is explicitly labeled.

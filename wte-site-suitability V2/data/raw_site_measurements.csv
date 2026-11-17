@@ -1,0 +1,12 @@
+parameter,unit,A1,A2,A3,A4
+HD,km,15,24,35,20
+CV,kJ/kg,5468,5268,5374,5781
+DW,km,6.2,5.4,5.7,7.2
+LN,Times (source label),0.75,0.91,0.69,0.82
+distance_main_road,m,197,100,310,136
+DR,m,2349,1720,2403,1948
+DD,source scale unspecified,9.5,7.5,9,9
+ES,standard coal t/a,73619,73619,72078,72078
+LC,CNY/m2,92,83,80,76
+land_maintenance,CNY/m2,7.3,7.2,7.4,8.7
+GF,not provided,,,,

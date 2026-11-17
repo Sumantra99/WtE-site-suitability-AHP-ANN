@@ -1,0 +1,4 @@
+Seven Python unit tests passed during package preparation.
+python analysis.py --train-ann completed successfully.
+Published site order reproduced: A3 > A4 > A1 > A2.
+Browser interface source is included; no automated browser execution was performed.
